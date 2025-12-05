@@ -1,0 +1,17 @@
+/* ================================
+   Global Reset & Base Styles
+================================== */
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #2563eb;
+    --secondary-color: #1e293b;
+    --accent-color: #f59e0b;
+    --light-bg: #f8fafc
